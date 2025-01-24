@@ -1,7 +1,7 @@
 # Project Name
 
 ## Description
-a mobile app with ionic that Read GPS coordinates from nodeJs that connect withMysql. 
+a mobile app with ionic that Read GPS coordinates from nodeJs that connect with Mysql. 
 
 ---
 
