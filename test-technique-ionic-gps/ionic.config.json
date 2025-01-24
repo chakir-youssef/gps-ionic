@@ -1,0 +1,7 @@
+{
+  "name": "test-technique-ionic-gps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
